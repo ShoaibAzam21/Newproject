@@ -1,0 +1,16 @@
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\bin\Debug\labproject.exe.config
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\bin\Debug\labproject.exe
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\bin\Debug\labproject.pdb
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.food_UC.resources
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.Form1.resources
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.Properties.Resources.resources
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.csproj.GenerateResource.cache
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.csproj.CoreCompileInputs.cache
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.exe
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.pdb
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.Drinks_UC.resources
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.Desserts_UC.resources
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.Add_UC.resources
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.About_UC.resources
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.Contact_UC.resources
+C:\Users\Shariq Ahmed\source\repos\labproject\labproject\obj\Debug\labproject.csprojAssemblyReference.cache
